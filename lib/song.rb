@@ -21,7 +21,7 @@ class Song
     artist.add_song(self) unless artist.songs.include?(self)
   end
   
-end
+
 
 
   #def to_param
